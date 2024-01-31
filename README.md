@@ -31,6 +31,15 @@
 
 <br>
 
+📚 Tech Stack
+
+<p align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+
+
 <!--
 **kowo1001/kowo1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
