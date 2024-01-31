@@ -31,7 +31,7 @@
 
 <br>
 
-📚 Tech Stack
+### 📚 Tech Stack
 
 <p align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
