@@ -41,6 +41,17 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 
 
+### 🌱 Award
+
+[[Link]()] (사)한국지능시스템학회 (2019년도) 학술상 우수논문상 수상
+- Word2vec과 CNN을 이용한 범죄 관련 뉴스기사 제목 분류 연구 [주저자]
+
+[[Link]()] (사)한국멀티미디어학회 (2018년도) 학술상 우수논문상 수상 
+- 블록체인을 활용한 개인 포트폴리오 다자간인증 서비스 모델 [주저자]
+
+
+
+
 <!--
 **kowo1001/kowo1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
