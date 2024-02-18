@@ -43,7 +43,7 @@
 
 ### 🌱 Award
 
-[[Link](https://github.com/kowo1001/NIA89-KLUE-BERT-NER-Tag-Recognition)] (사)충청ICT 기업협력 프로젝트 (2023년 09월 24일~11월 10일) 충청ICT기업협력프로젝트에 참가하여 우수 사례로 선정
+[[Link](https://github.com/kowo1001/planner_fastapi/assets/37354978/3bae62aa-e979-477e-8035-ed5d4a539f73)] (사)충청ICT 기업협력 프로젝트 (2023년 09월 24일~11월 10일) 충청ICT기업협력프로젝트에 참가하여 우수 사례로 선정
 - NIA한국지능정보사회진흥원 공적말하기 실습 및 평가데이터 구축 과제 > AI 모델링 
   
 [[Link]()] (사)한국지능시스템학회 (2019년도) 학술상 우수논문상 수상
